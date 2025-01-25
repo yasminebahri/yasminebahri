@@ -1,6 +1,6 @@
 # Yasmine Bahri
 
-👋 Hi! I'm Yasmine Bahri, a 21-year-old data science student at Esprit University. Passionate about turning data into actionable insights!
+👋 Hi! I'm Yasmine Bahri, a 22-year-old data science student at Esprit University. Passionate about turning data into actionable insights!
 
 ## About Me
 
